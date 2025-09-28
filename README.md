@@ -10,8 +10,7 @@
 ### 👨‍💻 About Me
 - 💻 Currently working in **Banking + DevOps Transition**  
 - ☁️ Learning **Azure | Terraform | Kubernetes | Docker | GitHub Actions**  
-- 🎯 Goal: Secure a **25+ LPA DevOps Engineer role** and become debt-free 🙏  
- 
+- 
 - 🐒 Devotee of **Hanumanji** – my source of energy & discipline  
 
 ---
@@ -19,8 +18,6 @@
 ### ⚙️ Languages & Tools
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="GCP" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="Kubernetes" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="50" height="50"/> 
