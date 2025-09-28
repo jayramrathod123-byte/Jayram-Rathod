@@ -1,4 +1,4 @@
-# Jayram-Rathod
+
 
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
@@ -8,9 +8,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 💻 Currently working in **Banking + DevOps Transition**  
+- 💻 Currently working in **Devops Engineer**  
 - ☁️ Learning **Azure | Terraform | Kubernetes | Docker | GitHub Actions**  
-- 
 - 🐒 Devotee of **Hanumanji** – my source of energy & discipline  
 
 ---
