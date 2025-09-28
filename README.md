@@ -11,7 +11,7 @@
 - 💻 Currently working in **Banking + DevOps Transition**  
 - ☁️ Learning **Azure | Terraform | Kubernetes | Docker | GitHub Actions**  
 - 🎯 Goal: Secure a **25+ LPA DevOps Engineer role** and become debt-free 🙏  
-- 📝 I regularly write **blogs & articles** to share my learning journey  
+ 
 - 🐒 Devotee of **Hanumanji** – my source of energy & discipline  
 
 ---
